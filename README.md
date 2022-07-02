@@ -1,5 +1,8 @@
 # Face-mask-detection-using-OpenCV-Python-code
-Face mask detection using machine learning
+Face mask detection using machine learning<br>
+[![Everything Is AWESOME](https://miro.medium.com/max/948/1*gG6IF9t4tfDbuDpmYZNtRw.png)](https://www.youtube.com/watch?v=6TxpBiRKNTs "Everything Is AWESOME")
+
+
 Step 1:
 Download Software
 https://www.anaconda.com/products/individual
